@@ -5,3 +5,6 @@
 
 2. [2주차 내용](https://github.com/dongminyoon/TIL/blob/master/iOS/Localizing.md)
 > Localizing 국제화
+
+3. [3주차 내용](https://github.com/dongminyoon/TIL/blob/master/iOS/UUID%20vs%20UDID.md)
+> UUID vs UDID 비교 + KeyChain 관련 내용
