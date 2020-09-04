@@ -13,4 +13,7 @@
 > iOS Architecture 구조와 Core Location 사용하기
 
 5. [5주차 내용](https://dongminyoon.tistory.com/3)
-> iOS Core Data 사용해서 데이터 저장하기
+> iOS Core Data 사용해서 데이터 저장하기(1/2)
+
+6. [6주차 내용](https://dongminyoon.tistory.com/6)
+> iOS Core Data 사용해서 데이터 저장하기(2/2)
