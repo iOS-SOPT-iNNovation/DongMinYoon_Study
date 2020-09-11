@@ -17,3 +17,6 @@
 
 6. [6주차 내용](https://dongminyoon.tistory.com/6)
 > iOS Core Data 사용해서 데이터 저장하기(2/2)
+
+7. [7주차 내용](https://dongminyoon.tistory.com/8)
+> XML Parser 사용하기
