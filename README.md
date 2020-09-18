@@ -20,3 +20,6 @@
 
 7. [7주차 내용](https://dongminyoon.tistory.com/8)
 > XML Parser 사용하기
+
+8. [8주차 내용](https://dongminyoon.tistory.com/7)
+> PhotoKit 활용 사진 가져오기(1/2)
