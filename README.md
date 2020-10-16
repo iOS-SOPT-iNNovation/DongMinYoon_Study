@@ -29,3 +29,6 @@
 
 10. [10주차 내용](https://dongminyoon.tistory.com/17)
 > PhotoKit 활용 사진 가져오기(2/2)
+
+11. [11주차 내용](https://dongminyoon.tistory.com/19)
+> QR Code Scanner 만들기
